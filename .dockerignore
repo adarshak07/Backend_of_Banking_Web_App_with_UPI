@@ -1,0 +1,7 @@
+nginx*
+target
+.git
+.idea
+.settings
+.project
+.DS_Store
